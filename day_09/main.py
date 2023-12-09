@@ -41,7 +41,6 @@ def process(filename: str, part: int) -> list[int]:
             final_num = new_num
          
         return(final_num)
-        pass
                     
     # Opening files and parts
 
