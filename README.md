@@ -13,3 +13,7 @@
 - Day 06: Easy. Could have used dichotomy for problem 2, but I was too lazy, and O(n) is still a good complexity in my opinion. We don't lose that much compared to O(log(n)).
 
 - Day 07: Use mathematics to solve Part One (I think it's the cleaner way). Part Two was probably doable with formulas as well, but I didn't have time, so I used a naive solution instead.
+
+- Day 08: Not too challenging with a naive approach, but I believe I could have implemented it more elegantly.
+
+- Day 09: Surprisingly easy, and I managed to complete both tasks in less than 10 minutes. While a recursive solution would have been cleaner and faster, I initially opted for an iterative approach."
